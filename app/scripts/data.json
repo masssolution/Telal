@@ -1,0 +1,44 @@
+{
+	"collections": {
+		"ARABWEAR": {
+			"subcollections": {
+				"KANDORA": {
+					"images": []
+				},
+				"BISHT": {
+					"images": []
+				},
+				"EGAL": {
+					"images": []
+				},
+				"GHUTRA": {
+					"images": []
+				},
+				"HAND EMBROIDARY": {
+					"images": []
+				}
+			},
+			"images": []
+		},
+		"FOOTWEAR": {
+			"subcollections": [],
+			"images": []
+		},
+		"MILITARY&POLICE": {
+			"subcollections": [],
+			"images": []
+		},
+		"ACCESSORIES": {
+			"subcollections": [],
+			"images": []
+		},
+		"ATTIRE": {
+			"subcollections": [],
+			"images": []
+		},
+		"KID'SCORNER": {
+			"subcollections": [],
+			"images": []
+		}
+	}
+}
